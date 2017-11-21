@@ -15,7 +15,7 @@ public class DbConnection {
 	public static void main(String[] args) {
 		DbConnection connection=new DbConnection();
 		
-	//System.out.println(connection.get_connection().toString());
+	//System.out.println(connection.get_connection());
 	//System.out.println("hiii");
 	}
 	
